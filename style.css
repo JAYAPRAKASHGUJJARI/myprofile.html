@@ -1,0 +1,74 @@
+.container{
+    width: 100%;
+}
+.top-container{
+
+    
+    background-color: #e4f9f5;
+    position: relative;
+
+}
+.top-container>.text{
+    position: relative;
+    left:35%;
+    top: 35%;
+}
+#mountain{
+    display: block;
+   
+    margin: auto;
+    cursor: zoom-in;
+    background-color:  #e4f9f5;
+    transition: background-color 300ms;
+}
+.top-container>.text>h2{
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+.top-container>.text>h1{
+    font-family: "Titillium Web", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.profile-img{
+    border-radius: 50%;
+    border: black;
+}
+.text-body-emphasis{
+    font-family: "Caveat", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+#zoom-image{
+    float: left;
+    height: 200px;
+    width: 200px;
+}
+#image-zoom{
+    float:right;
+}
+.coding-cpp{
+    margin-top: 150px;
+}
+#zoom{
+    float: left;
+}
+.web{
+    margin-top: 150px;
+}
+.contact{
+    margin-top: 150px;
+}
+.footer{
+    background-color: #e4f9f5;
+}
+.heading{
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: #4e0303;
+    text-decoration: underline;
+}
